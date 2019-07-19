@@ -11,7 +11,7 @@
 	<div class="container-contact50"></div>
 	<div class="container-contact100">
 		<div class="wrap-contact200 relativePage">
-			<h3>Washonn Franchise Enquire</h3>
+			<h3> Washonn Franchise Enquire </h3>
 			<div class="wrap-input100">
 				<p>
 					Great, We've received your enquiry.</br> Expect to here back from us

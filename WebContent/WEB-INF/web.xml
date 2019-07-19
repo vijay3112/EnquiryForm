@@ -9,6 +9,7 @@
 		<servlet-class>com.queryform.controller.QueryFormServlet</servlet-class>
 	</servlet>
 
+
 	<servlet-mapping>
 		<servlet-name>QueryForm</servlet-name>
 		<url-pattern>/query_form</url-pattern>

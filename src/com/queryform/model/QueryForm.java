@@ -6,7 +6,7 @@ package com.queryform.model;
 import java.io.Serializable;
 
 /**
- * @author KVBhaskar
+ * @author KVB3112
  *
  */
 public class QueryForm implements Serializable {

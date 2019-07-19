@@ -12,7 +12,7 @@
 		<div class="container-contact50"></div>
 		<div class="container-contact100">
 			<div class="wrap-contact100 relative">
-				<h3>Washonn Franchise Enquire</h3>
+				<h3> Washonn Franchise Enquire </h3>
 				<div class="wrap-input100 bg1">* Required</div>
 				<form action="query_form" method="post">
 
